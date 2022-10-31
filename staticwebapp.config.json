@@ -3,14 +3,10 @@
     {
       "route": "/src/static/index.html",
       "allowedRoles": ["anonymous"]
-    },
-  
-  {
+    }
+  ],
     "navigationFallback": {
       "rewrite": "/index.html"
     }
-  
-}
-]
 }
  
