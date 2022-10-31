@@ -1,7 +1,8 @@
 {
   "routes": [
     {
-      "route": "/static/index.html"
+      "route": "/static*",
+      "rewrite": "/static/index.html"
       
     }
   ],
